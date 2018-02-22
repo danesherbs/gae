@@ -1,0 +1,10 @@
+name: env_gvae
+
+dependencies:
+  - numpy
+  - networkx
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - pip:
+    - tensorflow==1.4.1
